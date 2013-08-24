@@ -9,9 +9,9 @@ Alloy フレームワーク
 
 * [Alloy クイックスタート](Alloy_Quick_Start.md)
 * [Alloy コンセプト](Alloy_Concepts.md)
-* [Alloy ビュー](Alloy_Views.md)
-* [Alloy コントローラー](Alloy_Controllers.md)
-* [Alloy モデル](Alloy_Models.md)
+* [Alloy View](Alloy_Views.md)
+* [Alloy Controller](Alloy_Controllers.md)
+* [Alloy Model](Alloy_Models.md)
 * [Alloy ウィジェット](Alloy_Widgets.md)
 * [Alloy タスク](Alloy_Tasks.md)
 * [Alloy リファレンスガイド](Alloy_Reference_Guides.md)
