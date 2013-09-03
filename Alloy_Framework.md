@@ -12,7 +12,7 @@ Alloy フレームワーク
 * [Alloy View](Alloy_Views.md)
 * [Alloy Controller](Alloy_Controllers.md)
 * [Alloy Model](Alloy_Models.md)
-* [Alloy ウィジェット](Alloy_Widgets.md)
+* [Alloy Widget](Alloy_Widgets.md)
 * [Alloy タスク](Alloy_Tasks.md)
 * [Alloy リファレンスガイド](Alloy_Reference_Guides.md)
 * [Alloy デバッグ・トラブルシューティング](Alloy_Debugging_and_Troubleshooting.md)
